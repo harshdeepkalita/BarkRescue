@@ -42,3 +42,7 @@ This analysis facilitates the notification of relevant animal control centers fo
    - An automated notification, including user location and image of the dog is sent to the selected animal control center.
 7. **Secure Communication:**
    - Implements HTTPS and encryption for all data transfers.
+
+## Limitation:
+1. Will be able to give you accurate results for single dogs.
+2. If this project works perfectly, I'll update the object detection part with instance segmentation, but let's not worry about that part now 😅.
