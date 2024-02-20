@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Bar Rescue App" leverages artificial intelligence to support animal rescue operations. By analyzing user-submitted images, the app predicts:
+The "Bark Rescue App" leverages artificial intelligence to support animal rescue operations. By analyzing user-submitted images, the app predicts:
 
 - **Presence of dogs:** Determines if a dog is present in the image.
 - **Dog's emotions:** Identifies the emotional state of the dog (e.g., scared, happy), if present.
