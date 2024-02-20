@@ -1,4 +1,4 @@
-# EfficientNet-B0 Architecture
+# EfficientNet Architecture
 
 ## Overview
 
