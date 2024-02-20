@@ -15,7 +15,8 @@ This analysis facilitates the notification of relevant animal control centers fo
 - **Back-End:** Spring Boot
 - **Model Inference:** TorchServe (deployed on cloud platforms like Google Cloud AI Platform, Amazon SageMaker)
 - **Machine Learning Models:**
-  - **EfficientNet-B0:** For dog detection (classification)
+  -  <a href="https://github.com/harshdeepkalita/BarkRescue/blob/main/EfficientNet-Understanding.md">**EfficientNet-B0:**</a> For dog detection (classification) 
+
   - **YOLOv5:** For bounding box detection (if a dog is detected)
   - **MobileNetV2:** For emotion recognition (if a dog is detected)
 
