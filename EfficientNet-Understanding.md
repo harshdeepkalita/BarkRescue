@@ -63,6 +63,10 @@ I'll try to cover the concepts in brief, if you are a beginner and have just sta
 
 This approach is the use of three constants—**α for depth, β for width, and γ for resolution** - which guide how resources are allocated across these dimensions. The unique aspect of this scaling method is its consideration of how changes in each dimension affect the model's computational cost, measured in FLOPS (Floating Point Operations Per Second). 
 
+<img width="1000" alt="image" src="https://github.com/harshdeepkalita/BarkRescue/assets/96279045/644e04a9-abdd-4c1d-b22d-70f59740aef3">
+
+
+
 ### As I am going to utilize EfficientNetB0 :
 - The values of ϕ (Phi), resolution, and drop connect rate are preset as part of the model's architecture definition. These parameters are specifically optimized for the B0 variant and are intended to provide a balanced starting point for various applications without the need for initial manual tuning.
 - ϕ (phi value) is set to 0
