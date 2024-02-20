@@ -1,9 +1,9 @@
 # Understanding the EfficientNet Model before implementing it on my Project
-I'll try to cover the concepts in brief, if you are a beginner and have just started learning about CNNs, you could refer to this document for learning about EfficientNet model and architecture :)
 
 ## Overview
 
 The courses referenced offered a high-level overview of the EfficientNet model. I found myself seeking more in-depth understanding. It was a YouTube video that sparked my curiosity, leading me to create my own hand-drawn diagram, meticulously capturing the intricate details.
+I'll try to cover the concepts in brief, if you are a beginner and have just started learning about CNNs (and have some knowledge about Attention mechanism and MobileNet-v2), you could refer to this document for learning about EfficientNet model and architecture :)
 
 ---
 
