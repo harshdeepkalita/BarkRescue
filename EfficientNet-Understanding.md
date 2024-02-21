@@ -24,10 +24,10 @@ I'll try to cover the concepts in brief, if you are a beginner and have just sta
  
   - To calculate the hidden dimension for the expansion part = expand_ratio * in_channels
   -  We have considered:
-    - in_channels = 3
-    - expansion ratio = 4
-    - stride = 1
-    - out_channels = 16
+     - in_channels = 3
+     - expansion ratio = 4
+     - stride = 1
+     - out_channels = 16
 
 ![0](https://github.com/harshdeepkalita/BarkRescue/assets/96279045/f766dfae-a128-4470-967a-7e739775313e)
 
