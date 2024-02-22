@@ -29,7 +29,8 @@ I'll try to cover the concepts in brief, if you are a beginner and have just sta
      - stride = 1
      - out_channels = 16
 
-![0](https://github.com/harshdeepkalita/BarkRescue/assets/96279045/f766dfae-a128-4470-967a-7e739775313e)
+![0](https://github.com/harshdeepkalita/BarkRescue/assets/96279045/3cabf55f-e5dd-4da9-82be-34699ee5a2d7)
+
 
 ---
 
